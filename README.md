@@ -17,7 +17,7 @@ Specifically, you will learn how to:
 
 Plus, the book comes with a ton of hands-on projects with real-life data, such as the earnings per share of Johnson & Johnson, the daily stock price of Google, the US macroeconomic data, the volume of antidiabetic drug prescription in Australia, and much more.
 
-Get you [copy](https://www.manning.com/books/time-series-forecasting-in-python-book?utm_source=marcopeix&utm_medium=affiliate&utm_campaign=book_peixeiro_time_10_21_21&a_aid=marcopeix&a_bid=8db7704f)
+Get your [copy](https://www.manning.com/books/time-series-forecasting-in-python-book?utm_source=marcopeix&utm_medium=affiliate&utm_campaign=book_peixeiro_time_10_21_21&a_aid=marcopeix&a_bid=8db7704f)
  now!
 
  ## How to use this repo
