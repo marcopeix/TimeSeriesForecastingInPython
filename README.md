@@ -36,14 +36,14 @@ Get your [copy](https://www.manning.com/books/time-series-forecasting-in-python-
  - Ch 3: Going on a random walk
  - Ch 4: Modeling a moving average process
  - Ch 5: Modeling an autoregressive process
-
- ### Next chapters to come in early access
  - Ch 6: Modeling complex time series
  - Ch 7: Forecasting non-stationary time series
  - Ch 8: Accounting for seasonality
  - Ch 9: Adding external variables to our model
+
+ ### Next chapters to come in early access
  - Ch 10: Forecasting multiple time series
- - Ch 11: Captonse project - Forecasting the number of antidiabetic drug prescriptions in Australia
+ - Ch 11: Captonse project - Forecasting the number of anti-diabetic drug prescriptions in Australia
 
  ### Chapters in development
  - Ch 12: Introducing deep learning for time series forecasting
