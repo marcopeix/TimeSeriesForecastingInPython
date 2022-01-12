@@ -49,10 +49,9 @@ Get your [copy](https://www.manning.com/books/time-series-forecasting-in-python-
  - Ch 12: Introducing deep learning for time series forecasting
  - Ch 13: Data windowing and creating baselines for deep learning
  - Ch 14: Baby steps with deep learning
- - Ch 15: Remembering the past with LSTMs
+ - Ch 15: Remembering the past with LSTM
  - Ch 16: Filtering our time series with CNN
- - Ch 17: Predicting the difference with residual networks
- - Ch 18: Using our predictions to make more predictions (autoregressive LSTM)
- - Ch 19: Capstone project - Predicting the electricity consumptions of households
- - Ch 20: Working with Prophet for automated time series forecasting
- - Ch 21: Capstone project - Forecasting beer production in Australia
+ - Ch 17: Using predictions to make more predictions
+ - Ch 18: Capstone project - Forecasting the electric power consumption of a household 
+ - Ch 19: Automating time series forecasting with Prophet
+ - Ch 20: Capstone project - Forecasting the monthly average retail price of steak in Canada
