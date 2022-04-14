@@ -42,16 +42,16 @@ Get your [copy](https://www.manning.com/books/time-series-forecasting-in-python-
  - Ch 9: Adding external variables to our model
  - Ch 10: Forecasting multiple time series
  - Ch 11: Captonse project - Forecasting the number of anti-diabetic drug prescriptions in Australia
-
- ### Next chapters to come in early access
  - Ch 12: Introducing deep learning for time series forecasting
  - Ch 13: Data windowing and creating baselines for deep learning
  - Ch 14: Baby steps with deep learning
-
- ### Chapters in development
  - Ch 15: Remembering the past with LSTM
  - Ch 16: Filtering our time series with CNN
  - Ch 17: Using predictions to make more predictions
  - Ch 18: Capstone project - Forecasting the electric power consumption of a household 
+
+ ### Next chapters to come in early access
  - Ch 19: Automating time series forecasting with Prophet
  - Ch 20: Capstone project - Forecasting the monthly average retail price of steak in Canada
+
+ ### Chapters in development
